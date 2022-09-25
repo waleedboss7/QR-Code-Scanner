@@ -1,5 +1,5 @@
 # QR-Code-Scanner
-Link to QR Code,
+Link to QR Code image,
   <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Ubuntu&amp;display=swap"/>
