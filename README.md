@@ -1,4 +1,5 @@
 # QR-Code-Scanner
+My Social Media: boss_dev7
 Link to QR Code image,
   <link
       rel="stylesheet"
