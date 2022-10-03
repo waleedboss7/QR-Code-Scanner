@@ -1,6 +1,6 @@
 # QR-Code-Scanner
-My Social Media: boss_dev7,
-Link to QR Code image =
+My Instagram: boss_dev7
+Link to QR Code image,
   <link
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Ubuntu&amp;display=swap"/>
